@@ -9,11 +9,6 @@ import (
     "quants/util/logger"
 )
 
-/**
- * @author Rancho
- * @date 2021/12/3
- */
-
 func ReadFile(filePath string) (content []byte) {
     filePath, err := filepath.Abs(filePath)
     if err != nil {

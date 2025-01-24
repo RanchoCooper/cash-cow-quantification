@@ -12,11 +12,6 @@ import (
     "quants/util/logger"
 )
 
-/**
- * @author Rancho
- * @date 2022/1/5
- */
-
 func Start(ctx context.Context, errChan chan error, httpCloseCh chan struct{}) {
     // init server
     srv := &http.Server{

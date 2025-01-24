@@ -8,11 +8,6 @@ import (
     "github.com/go-playground/validator/v10"
 )
 
-/**
- * @author Rancho
- * @date 2022/1/6
- */
-
 type ValidError struct {
     Key     string
     Message string

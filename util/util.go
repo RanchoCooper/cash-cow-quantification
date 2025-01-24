@@ -7,11 +7,6 @@ import (
     "time"
 )
 
-/**
- * @author Rancho
- * @date 2021/12/5
- */
-
 const (
     AsciiLowercase = "abcdefghijklmnopqrstuvwxyz"
     AsciiUppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"

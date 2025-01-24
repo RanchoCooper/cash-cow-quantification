@@ -13,11 +13,6 @@ import (
     "quants/api/dto"
 )
 
-/**
- * @author Rancho
- * @date 2022/1/7
- */
-
 func TestCreateExample(t *testing.T) {
     var w = httptest.NewRecorder()
     var response map[string]interface{}

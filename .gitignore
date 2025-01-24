@@ -275,4 +275,4 @@ fabric.properties
 
 tmp/
 config/config.private.yaml
-internal/domain/strategy/spot_trend_grid/data.json
+domain/strategy/spot_trend_grid/data.json

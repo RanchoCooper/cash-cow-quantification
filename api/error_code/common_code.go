@@ -1,9 +1,5 @@
 package error_code
 
-/**
- * @author Rancho
- * @date 2022/1/5
- */
 
 // basic error code
 var (
